@@ -1,0 +1,1 @@
+[![Build and Publish](https://github.com/anarion80/ghost_cloudinary_docker/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/anarion80/ghost_cloudinary_docker/actions/workflows/build-and-publish.yml)
