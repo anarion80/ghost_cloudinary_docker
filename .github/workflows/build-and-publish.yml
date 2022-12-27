@@ -47,8 +47,8 @@ jobs:
         uses: docker/metadata-action@v4
         with:
           images: |
-            docker.io/anarion/releasebell
-            ghcr.io/anarion80/releasebell
+            docker.io/anarion/ghost_cloudinary
+            ghcr.io/anarion80/ghost_cloudinary
 
       - name: Build image and push to Docker Hub and GitHub Container Registry
         uses: docker/build-push-action@v3
